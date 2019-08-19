@@ -1,5 +1,3 @@
-import { write } from "fs";
-
 // tslint:disable:no-console  Let's permit console.log for this test program.
 
 function writeMessage(theMessage: string): string {
