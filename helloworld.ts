@@ -1,3 +1,5 @@
+import { write } from "fs";
+
 // tslint:disable:no-console  Let's permit console.log for this test program.
 
 function writeMessage(theMessage: string): string {
@@ -6,3 +8,5 @@ function writeMessage(theMessage: string): string {
 }
 
 export default writeMessage
+
+writeMessage("an inline test of writeMessage.")
