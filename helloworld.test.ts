@@ -1,6 +1,6 @@
-import writeMessage from "./helloworld";
+import writeMessage from "./helloworld"
 
-let testMessage:string = 'hello';
+const testMessage: string = 'hello'
 
 describe('TestHello', () => {
 
