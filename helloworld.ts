@@ -7,4 +7,4 @@ function writeMessage(theMessage: string): string {
 
 export default writeMessage
 
-writeMessage("an inline test of writeMessage.")
+writeMessage("an inline test of writeMessage.")  // just to have a place for a breakpoint.
