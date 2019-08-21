@@ -1,5 +1,5 @@
 {
-  "name": "tut",
+  "name": "preclass",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,5 +27,8 @@
       "tsx",
       "js"
     ]
+  },
+  "dependencies": {
+    "tslint": "^5.18.0"
   }
 }
